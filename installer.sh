@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 pip3 install pyparsing
 pip3 install appdirs
