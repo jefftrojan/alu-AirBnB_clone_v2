@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Fabscript that deletes 
+""" Fabscript that deletes
     out-of-date archives.
 """
 import os
